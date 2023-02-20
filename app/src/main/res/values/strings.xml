@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomNavigationBarJetpackCompose</string>
+    <string name="home_icon">Home</string>
+    <string name="search_icon">Search</string>
+</resources>
